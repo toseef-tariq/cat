@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1518625006 source:c:\users\toseef\desktop\mcs\semester 1\pf\project\cat\code\main.cpp
+	<iostream>
+	<time.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<conio.h>
+
