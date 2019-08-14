@@ -1,0 +1,10 @@
+b0: Main memory is also known as ? a)Auxiliary memory	b)Primery memory c)Secondry memory
+b1: What type of memory is volatile ? a)Cache b)RAM c)ROM
+c2  When was the first e-mail sent? a)1963 b)1969 c)1971
+c3: A DNS translates a domain name into what ? a)Binary b)Hex	c)IP
+c4: Joystick is used to ? a)Move cursor on the screen b)Computer game c)Both a and b
+c5: Address book contains? a)Email address  b)Phone numbers c)both a&b
+b6: Full form of "OS" is? a)Order of significance b)Operating system  c)Opensoftware
+c7: The ribbon is used in ? a)Laser Printer b)Plotter	c)Dot Matrix printer
+b8: Full form of "DOCOMO" ? a)Do Connect over Mobile  b)Do Communications Over the Mobile network   c)Dongle Communication Over Mobile
+b9: Which of the below is not an iPhone 4 feature?  a)4G b)Front facing camera c)HD recording	
